@@ -10,7 +10,6 @@
   "categories": [
     "Other"
   ],
-  "activationEvents": [],
   "main": "./out/extension.js",
   "contributes": {
     "commands": [
@@ -52,5 +51,20 @@
     "cheerio": "^1.2.0",
     "node-fetch": "^3.3.2",
     "vscode-nls": "^5.2.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DjayselPessoa/vbv"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Djaysel Pessôa",
+    "url": "https://github.com/DjayselPessoa"
+  },
+  "keywords": [
+    "VSCode",
+    "Blog",
+    "Viewer",
+    "Webview"
+  ]
 }
