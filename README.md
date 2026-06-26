@@ -1,4 +1,8 @@
 # vbv – VS Code Blog Viewer
+[🇧🇷 Português](#português) | [🇺🇸 English](#english)
+
+---
+## 🇧🇷 Português
 
 Uma extensão simples para o Visual Studio Code que permite visualizar o **post mais recente do blog oficial do VS Code** diretamente no editor.
 Imagens são substituídas por links clicáveis, mantendo o conteúdo leve e legível.
@@ -72,3 +76,7 @@ Extension by [@DjayselPessôa](https://github.com/DjayselPessoa) github.com
 - [VS Code Blog](https://code.visualstudio.com/blogs/)
 
 - [VS Code Extension Guidelines](https://code.visualstudio.com/api/ux-guidelines/overview)
+
+---
+
+## 🇺🇸 English
