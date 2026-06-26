@@ -3,7 +3,7 @@
   "displayName": "VSCode Blog Viewer",
   "description": "VSCode blog inside VSCode webview",
   "version": "0.0.1",
-  "publisher": "djayselpessoa",
+  "publisher": "Djaysel Pessoa",
   "engines": {
     "vscode": "^1.125.0"
   },
@@ -58,7 +58,7 @@
   },
   "license": "MIT",
   "author": {
-    "name": "Djaysel Pessôa",
+    "name": "Djaysel Pessoa",
     "url": "https://github.com/DjayselPessoa"
   },
   "keywords": [

@@ -1,7 +1,7 @@
 ⚓ [🇺🇸 English](#english)
 <span id="portugues"></span>
 
-🇧🇷 Português
+🇧🇷 Português:
 
 # vbv – VS Code Blog Viewer
 
@@ -40,7 +40,7 @@ Imagens são substituídas por links clicáveis, mantendo o conteúdo leve e leg
 
 2. Abra a Command Palette (Ctrl+Shift+P ou Cmd+Shift+P no macOS).
 
-    21. Execute o comando:
+    - Execute o comando:
 
     ```cmd
     Open Latest VSCode Blog Post
@@ -51,7 +51,7 @@ Imagens são substituídas por links clicáveis, mantendo o conteúdo leve e leg
 
 5. Também terá um ícone de livro na barra de status seguido do nome VSCBlog - caso não apareça ative uma primeira vez pelas duas opções anteriores: opt(2 e 4)
 
-    51. O ícone de livro mudará para sino (após o primeiro carregamento) caso haja novo post no blog. O tempo padrão de verificação é de seis horas. 
+    - O ícone de livro mudará para sino (após o primeiro carregamento) caso haja novo post no blog. O tempo padrão de verificação é de seis horas. 
 
 
 ## Extension Settings 🔧 
@@ -98,7 +98,7 @@ Extension by [@DjayselPessôa](https://github.com/DjayselPessoa) github.com
 ⚓ [🇧🇷 Português](#portugues)
 <span id="english"></span>
 
-🇺🇸 English
+🇺🇸 English:
 
 # vbv – VS Code Blog Viewer
 
@@ -137,7 +137,7 @@ Images are replaced with clickable links, keeping the content lightweight and re
 
 2. Open the Command Palette (Ctrl+Shift+P or Cmd+Shift+P on macOS). 
 
-    21. Run the command:
+    - Run the command:
 
     ```cmd
     Open Latest VSCode Blog Post
@@ -148,7 +148,7 @@ Images are replaced with clickable links, keeping the content lightweight and re
 
 5. A book icon followed by the name "VSCBlog" will appear in the status bar; if it doesn't show up, activate it once using the methods above (steps 2 and 4).
 
-    51. The book icon will change to a bell icon (after the initial load) if there is a new blog post. The default check interval is six hours.
+    - The book icon will change to a bell icon (after the initial load) if there is a new blog post. The default check interval is six hours.
 
 ## Extension Settings 🔧
 
