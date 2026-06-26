@@ -79,4 +79,4 @@ Extension by [@DjayselPessôa](https://github.com/DjayselPessoa) github.com
 
 ---
 
-## 🇺🇸 English
+## <a id="english"/> 🇺🇸 English
