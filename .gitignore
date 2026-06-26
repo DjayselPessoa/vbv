@@ -1,0 +1,18 @@
+# Dependências
+node_modules/
+
+# Build output
+out/
+dist/
+
+# Arquivos de log
+*.log
+
+# Configurações locais do VS Code
+.vscode/
+
+# Cache do TypeScript
+*.tsbuildinfo
+
+# Pacotes gerados para publicação
+*.vsix
