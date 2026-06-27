@@ -16,3 +16,9 @@ dist/
 
 # Pacotes gerados para publicação
 *.vsix
+
+# manifest
+manifest.json
+
+# typescript config
+tsconfig.json

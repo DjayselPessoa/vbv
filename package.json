@@ -2,7 +2,7 @@
   "name": "vbv",
   "displayName": "VSCode Blog Viewer",
   "description": "VSCode blog inside VSCode webview",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "publisher": "Zzurto",
   "icon": "img/icon.png",
   "engines": {
@@ -12,6 +12,10 @@
     "Other"
   ],
   "main": "./out/extension.js",
+  "activationEvents": [
+    "onStartupFinished",
+    "onCommand:vbv.openLatestBlog"
+  ],
   "contributes": {
     "commands": [
       {
@@ -19,7 +23,7 @@
         "title": "Open VSCode Blog"
       }
     ],
-    "keybindings":[
+    "keybindings": [
       {
         "command": "vbv.openLatestBlog",
         "key": "ctrl+alt+l"
