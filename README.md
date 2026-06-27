@@ -8,6 +8,8 @@
 Uma extensão simples para o Visual Studio Code que permite visualizar o **post mais recente do blog oficial do VS Code** diretamente no editor.
 Imagens são substituídas por links clicáveis, mantendo o conteúdo leve e legível.
 
+> Ao instalar a extensão é realizada a primeira consulta ao VSCode Blog e por esta razão o tempo de ativação é relativamente longo dependendo da conexão do cliente
+
 ---
 
 ## Features ✨
@@ -104,6 +106,8 @@ Extension by [@DjayselPessôa](https://github.com/DjayselPessoa) github.com
 
 A simple Visual Studio Code extension that lets you view the **latest post from the official VS Code blog** directly within the editor.
 Images are replaced with clickable links, keeping the content lightweight and readable.
+
+> Upon installing the extension, an initial query is made to the VSCode Blog; consequently, the activation time is relatively long, depending on the client's connection.
 
 ---
 
