@@ -12,9 +12,6 @@
     "Other"
   ],
   "main": "./out/extension.js",
-  "activationEvents": [
-    "onCommand:vbv.openLatestBlog"
-  ],
   "contributes": {
     "commands": [
       {

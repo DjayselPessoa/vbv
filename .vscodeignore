@@ -1,3 +1,6 @@
+node_modules
+img/logo_icon_grande.png
+img/logo1.png
 .vscode/**
 .vscode-test/**
 src/**
