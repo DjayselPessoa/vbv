@@ -2,7 +2,7 @@
   "name": "vbv",
   "displayName": "VSCode Blog Viewer",
   "description": "VSCode blog inside VSCode webview",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "Zzurto",
   "icon": "img/icon.png",
   "engines": {
