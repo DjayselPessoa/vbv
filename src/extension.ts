@@ -50,14 +50,19 @@ export function activate(context: vscode.ExtensionContext) {
         if(!latestUrl) {return;};
 
         const savedUrl = context.globalState.get<string>("LastBlogPost");
+        const readFlag = context.globalState.get<boolean>("LastBlogPostRead");
 
         if(savedUrl && savedUrl !== latestUrl){
+            await context.globalState.update("LastBlogPost", latestUrl);
+            await context.globalState.update("LastBlogPostRead", false);
             statusBarItem.text = "$(bell) VSCBlog NEW";
         }else{
-            // vscode.window.showErrorMessage("nada de novo!");
-            statusBarItem.text = "$(book) VSCBlog";
+            if (readFlag === false) {
+                statusBarItem.text = "$(bell) VSCBlog NEW";
+            } else {
+                statusBarItem.text = "$(book) VSCBlog";
+            }            
         }
-
     }
     /**
      * Comando principal da extensão.
@@ -162,6 +167,7 @@ export function activate(context: vscode.ExtensionContext) {
 
             // atualizar estado com o último post aberto
             await context.globalState.update("LastBlogPost", latestUrl);
+            await context.globalState.update("LastBlogPostRead", true);
             statusBarItem.text = "$(book) VSCBlog";
         } catch (error) {
             vscode.window.showErrorMessage("Erro ao carregar o blog: " + error);
