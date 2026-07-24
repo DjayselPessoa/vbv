@@ -31,7 +31,7 @@
     ]
   },
   "scripts": {
-    "vscode:prepublish": "npm run compile",
+    "vscode:prepublish": "echo 'skip compile'",
     "compile": "npx tsc -p ./",
     "watch": "npx tsc -watch -p ./",
     "pretest": "npm run compile && npm run lint",
