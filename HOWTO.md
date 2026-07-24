@@ -1,4 +1,4 @@
-**Fluxo final para publicar**
+**Fluxo**
 
 - Compile: `npm run compile`
     
@@ -8,8 +8,3 @@
     
 - Teste o `.vsix` localmente
     
-- Publique: `vsce publish`
-
-- depois recupere as dependências dev: npm install
-
-a pasta out pode ser apagada normalmente
