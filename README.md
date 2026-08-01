@@ -1,3 +1,11 @@
+# Icons status bar:
+
+> ![VSCBlog_new](img\vscblog_new.png)
+
+> ![VSCBlog_readed](img\vscblog_readed.png)
+
+----
+
 ⚓ [🇺🇸 English](#english)
 <span id="portugues"></span>
 
