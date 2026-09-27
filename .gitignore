@@ -22,3 +22,9 @@ manifest.json
 
 # typescript config
 tsconfig.json
+
+# RELESET.json
+RULESET.json
+
+# Howto
+HOW_TO.md
