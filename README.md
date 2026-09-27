@@ -1,8 +1,8 @@
 # Icons status bar:
 
-> ![VSCBlog_new](img\vscblog_new.png)
+> ![VSCBlog_new](https://github.com/DjayselPessoa/vbv/blob/main/img/vscblog_new.png?raw=true)
 
-> ![VSCBlog_readed](img\vscblog_readed.png)
+> ![VSCBlog_readed](https://github.com/DjayselPessoa/vbv/blob/main/img/vscblog_readed.png?raw=true)
 
 ----
 
