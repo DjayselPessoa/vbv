@@ -5,7 +5,7 @@ All notable changes to the "vbv - VSCode Blog Viewer" extension will be document
 > The format is based on [Keep a Changelog](https://keepachangelog.com/en/2.0.0/), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ---
-## [0.0.5] - 27-09-2026
+## [0.0.6] - 27-09-2026
 
 - Security updates for modules and packages
 
